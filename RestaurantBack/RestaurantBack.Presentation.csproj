@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>d151d853-d85e-47fb-b28b-7fabaa9b45e0</UserSecretsId>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <DockerfileContext>.</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.5" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RestaurantBack.Domain.UnitOfWork\RestaurantBack.Domain.UnitOfWork.csproj" />
+    <ProjectReference Include="..\RestaurantBack.Infrastructure.BusinessLogic\RestaurantBack.Infrastructure.BusinessLogic.csproj" />
+    <ProjectReference Include="..\RestaurantBack.Infrastructure.UnitOfWork\RestaurantBack.Infrastructure.UnitOfWork.csproj" />
+  </ItemGroup>
+
+</Project>

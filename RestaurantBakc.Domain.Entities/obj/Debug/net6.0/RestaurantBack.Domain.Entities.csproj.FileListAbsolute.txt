@@ -1,0 +1,11 @@
+C:\Users\The Gamer GF\source\repos\RestaurantBakc.Domain.Entities\bin\Debug\net6.0\RestaurantBack.Domain.Entities.deps.json
+C:\Users\The Gamer GF\source\repos\RestaurantBakc.Domain.Entities\bin\Debug\net6.0\RestaurantBack.Domain.Entities.dll
+C:\Users\The Gamer GF\source\repos\RestaurantBakc.Domain.Entities\bin\Debug\net6.0\RestaurantBack.Domain.Entities.pdb
+C:\Users\The Gamer GF\source\repos\RestaurantBakc.Domain.Entities\obj\Debug\net6.0\RestaurantBack.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Gamer GF\source\repos\RestaurantBakc.Domain.Entities\obj\Debug\net6.0\RestaurantBack.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\The Gamer GF\source\repos\RestaurantBakc.Domain.Entities\obj\Debug\net6.0\RestaurantBack.Domain.Entities.AssemblyInfo.cs
+C:\Users\The Gamer GF\source\repos\RestaurantBakc.Domain.Entities\obj\Debug\net6.0\RestaurantBack.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\The Gamer GF\source\repos\RestaurantBakc.Domain.Entities\obj\Debug\net6.0\RestaurantBack.Domain.Entities.dll
+C:\Users\The Gamer GF\source\repos\RestaurantBakc.Domain.Entities\obj\Debug\net6.0\refint\RestaurantBack.Domain.Entities.dll
+C:\Users\The Gamer GF\source\repos\RestaurantBakc.Domain.Entities\obj\Debug\net6.0\RestaurantBack.Domain.Entities.pdb
+C:\Users\The Gamer GF\source\repos\RestaurantBakc.Domain.Entities\obj\Debug\net6.0\ref\RestaurantBack.Domain.Entities.dll

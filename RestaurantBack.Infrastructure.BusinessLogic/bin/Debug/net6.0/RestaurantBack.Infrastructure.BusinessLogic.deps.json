@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RestaurantBack.Infrastructure.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "RestaurantBack.Domain.Entities": "1.0.0",
+          "RestaurantBack.Domain.UnitOfWork": "1.0.0"
+        },
+        "runtime": {
+          "RestaurantBack.Infrastructure.BusinessLogic.dll": {}
+        }
+      },
+      "RestaurantBack.Domain.Entities/1.0.0": {
+        "runtime": {
+          "RestaurantBack.Domain.Entities.dll": {}
+        }
+      },
+      "RestaurantBack.Domain.RepositoryPattern/1.0.0": {
+        "dependencies": {
+          "RestaurantBack.Domain.Entities": "1.0.0"
+        },
+        "runtime": {
+          "RestaurantBack.Domain.RepositoryPattern.dll": {}
+        }
+      },
+      "RestaurantBack.Domain.UnitOfWork/1.0.0": {
+        "dependencies": {
+          "RestaurantBack.Domain.RepositoryPattern": "1.0.0"
+        },
+        "runtime": {
+          "RestaurantBack.Domain.UnitOfWork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestaurantBack.Infrastructure.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestaurantBack.Domain.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestaurantBack.Domain.RepositoryPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RestaurantBack.Domain.UnitOfWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
